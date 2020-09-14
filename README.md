@@ -8,3 +8,10 @@ Hence, to give computers the ability to understand the Natural World, we need to
 Sentiment Analysis is a branch of NLP which tries to capture the intention/sentiment behind the sentence.
 
 ![NLP](https://miro.medium.com/max/1036/1*z_EFTnhzxA3FJROcjOqNXg.png)
+
+#### Overview of the Project
+
+1. [Data Wrangling](/data_wrangling.py)
+2. [Bi-Directional LSTM](/blstm.py)
+3. [Accuracy](Bi-LSTM_accuracy.png) & [Loss](Bi-LSTM_loss.png)
+
